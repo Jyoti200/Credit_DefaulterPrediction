@@ -34,7 +34,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/credit-defaulter-prediction.git
+git clone https://github.com/Jyoti200/credit-defaulter-prediction.git
 cd credit-defaulter-prediction
 Install the required dependencies.
 
